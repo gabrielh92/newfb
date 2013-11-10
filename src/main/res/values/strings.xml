@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">FBHackathon</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Homework1</string>
     <string name="action_settings">Settings</string>
-
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_basic_main">BasicMain</string>
+    
+    <string name="timestamp">Timestamp:   </string>
+    <string name="accel_x">Accelerometer X:   </string>
+    <string name="accel_y">Accelerometer Y:   </string>
+    <string name="accel_z">Accelerometer Z:   </string>
+    <string name="gyro_x">Gyroscope X:   </string>
+    <string name="gyro_y">Gyroscope Y:   </string>
+    <string name="gyro_z">Gyroscope Z:   </string>
+    <string name="mag_x">Magnetometer X:   </string>
+    <string name="mag_y">Magnetometer Y:   </string>
+    <string name="mag_z">Magnetometer Z:   </string><string name="steps">Steps:</string>
+    <string name="light_intensity">Luminity:   </string>
+    <string name="azimuth">Azimuth:   </string>
+    <string name="orientation">Orientation:    </string>
+    <string name="wifi">WiFi:    </string>
+    <string name="zero">0</string>
 </resources>
